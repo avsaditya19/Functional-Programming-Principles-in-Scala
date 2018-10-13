@@ -1,12 +1,12 @@
-object rationals {
+object rationalsCool {
   val x = new Rational(1, 3)
   val y = new Rational(5, 7)
   val z = new Rational(3, 2)
   x.numer
   x.denom
-  y.add(y)
-  x.sub(y).sub(z)
-  x.less(y)
+  y + y
+  x - y - z
+  x < y
   x.max(y)
   val simplified = new Rational(10, 20)
 
@@ -24,33 +24,24 @@ object rationals {
 
     def denom = y / g
 
-    def less(that: Rational) = numer * that.denom < that.numer * denom
+    def <(that: Rational) = numer * that.denom < that.numer * denom
 
-    def max(that: Rational) = if (this.less(that)) that else this
+    def max(that: Rational) = if (this < that) that else this
 
-    def add(that: Rational) = {
+    def +(that: Rational) = {
       new Rational(
         numer * that.denom + that.numer * denom,
         denom * that.denom
       )
     }
 
-    def neg: Rational = new Rational(-numer, denom)
+    def unary_- : Rational = new Rational(-numer, denom)
 
-    def sub(that: Rational): Rational = add(that.neg)
-
-    /*
-    Good to Normalise as early as possible and not like this as we may exceed limit
-    of Int during computation
-     override def toString: String = {
-       val g = gcd(numer, denom)
-       numer / g + "/" + denom / g
-     }*/
+    def -(that: Rational): Rational = this + -that
 
     override def toString: String = {
       numer + "/" + denom
     }
-
   }
 
 }
