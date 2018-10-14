@@ -1,0 +1,14 @@
+[info] Running funsets.Main 
+[debug] Waiting for threads to exit or System.exit to be called.
+[debug] Waiting for thread run-main-3 to terminate.
+[debug]   Classpath:
+[debug] 	D:\Learnings\scala-progfun1\funsets\funsets\target\scala-2.11\classes
+[debug] 	C:\Users\DeltaX\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+[debug] 	C:\Users\DeltaX\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar
+[debug] 	C:\Users\DeltaX\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.2\scala-xml_2.11-1.0.2.jar
+[debug] 	C:\Users\DeltaX\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scalatest\scalatest_2.11\2.2.4\scalatest_2.11-2.2.4.jar
+[debug] 	C:\Users\DeltaX\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+[debug] 	Thread run-main-3 exited.
+[debug] Interrupting remaining threads (should be all daemons).
+[debug] Sandboxed run complete..
+[debug] Exited with code 0
