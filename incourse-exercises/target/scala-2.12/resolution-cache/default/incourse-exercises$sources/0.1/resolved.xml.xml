@@ -4,7 +4,7 @@
 		module="incourse-exercises$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181009232333"
+		publication="20181017204935"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
