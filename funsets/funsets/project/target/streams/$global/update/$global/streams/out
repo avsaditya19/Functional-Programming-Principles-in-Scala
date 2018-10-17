@@ -11518,7 +11518,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.7!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 4302ms :: artifacts dl 239ms
+[debug] :: resolution report :: resolve 7718ms :: artifacts dl 199ms
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT compile produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-compile.xml
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT runtime produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-runtime.xml
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT test produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-test.xml
@@ -11532,5 +11532,5 @@
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT docs produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-docs.xml
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT pom produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-pom.xml
 [debug] 	report for default#funsets-build;0.1-SNAPSHOT scala-tool produced in D:\Learnings\scala-progfun1\funsets\funsets\project\target\scala-2.10\sbt-0.13\resolution-cache\reports\default-funsets-build-scala-tool.xml
-[debug] 	resolve done (4302ms resolve - 239ms download)
+[debug] 	resolve done (7718ms resolve - 199ms download)
 [info] Done updating.
