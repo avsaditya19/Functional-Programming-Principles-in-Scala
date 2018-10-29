@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/DeltaX/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/D:/Learnings/scala-progfun1/Learning-Scala-EPFL-Course/patmat/patmat/}root/products {file:/D:/Learnings/scala-progfun1/Learning-Scala-EPFL-Course/patmat/patmat/}root/test:products
+sumbit avsaditya19@gmail.com JvcPRdCuOtwDpUPe
+submit avsaditya19@gmail.com JvcPRdCuOtwDpUPe
+all {file:/D:/Learnings/scala-progfun1/Learning-Scala-EPFL-Course/patmat/patmat/}root/products {file:/D:/Learnings/scala-progfun1/Learning-Scala-EPFL-Course/patmat/patmat/}root/test:products
