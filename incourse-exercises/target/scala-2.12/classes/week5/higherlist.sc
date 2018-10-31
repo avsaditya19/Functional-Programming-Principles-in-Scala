@@ -22,4 +22,15 @@ object higherlist {
   }
 
   encode(List("a", "a", "a", "b", "c", "c", "a"))
+
+  def mapFun[T, U](xs: List[T], f: T => U): List[U] =
+    (xs foldRight List[U]()) ((x, y) => f(x) :: y)
+
+  mapFun(List(1, 2, 3, 4), (x: Int) => x * x)
+
+  def length[T](xs: List[T]): Int =
+    (xs foldRight 0) ((x, y) => y + 1)
+
+  length(List(1, 2, 3, 4))
+
 }
