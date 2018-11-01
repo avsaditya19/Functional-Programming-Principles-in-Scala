@@ -20,10 +20,19 @@ name hashing:
 1 items
 0 -> true
 products:
-10 items
+19 items
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package$.class
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$codeBits$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$combine$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$encode$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$1.class
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$2.class
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$.class
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class
@@ -46,8 +55,7 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-1 items
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala
+0 items
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -55,19 +63,28 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-10 items
+19 items
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> common.package
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> common.package$
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> common.package$$anonfun$subFile$1
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$codeBits$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$combine$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$encode$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$2
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$times$1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$$anonfun$times$2
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$CodeTree
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Fork$
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat.Huffman$Leaf$
 used names:
-125 items
+175 items
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> ::
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> <init>
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> <repeated>
@@ -121,6 +138,7 @@ D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\sc
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> ==
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> ???
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> A
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> A1
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction2
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> AbstractFunction4
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Any
@@ -128,22 +146,30 @@ D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\sc
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> B
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Bit
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Boolean
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> C
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> CanBuildFrom
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Char
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> CodeTable
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> CodeTree
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Coll
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Fork
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Function1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> GenTraversableOnce
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Huffman
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> IndexOutOfBoundsException
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Int
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Iterator
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> K
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Leaf
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> List
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Map
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Match
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> MatchError
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Nil
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> None
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Nothing
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Object
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Ordering
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Predef
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Product
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Regex
@@ -159,56 +185,106 @@ D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\sc
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> T2
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> T3
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> T4
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> That
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Tuple2
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> Tuple4
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> _1
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> _2
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> _root_
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> _toString
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> anyHash
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> apply
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> asInstanceOf
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> augmentString
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> bits
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> c
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> canBuildFrom
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> char
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> chars
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> combine
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> combineFun
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> common
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> contains
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> cs
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> decode
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> eq
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> filter
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> finalizeHash
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> flatMap
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> frenchCode
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> freqs
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> groupBy
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> head
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> identity
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> immutable
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> isEmpty
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> isInstanceOf
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> leafList
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> left
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> length
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> lookup
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> makeCodeTree
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> makeOrderedLeafList
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> map
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> mapValues
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> matching
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> math
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> mix
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> package
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> patmat
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> remaining
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> right
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> runtime
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> scala
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> secret
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> singleton
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> singletonFun
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> size
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> sortBy
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> str
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> t
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> table
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> tail
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> text
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> times
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> toInt
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> toList
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> toString
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> traverse
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> tree
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> trees
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> typedProductIterator
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> until
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> util
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> w
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> weight
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> x
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> ||
 product stamps:
-10 items
+19 items
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package$$anonfun$subFile$1.class -> lastModified(1540591073515)
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package$.class -> lastModified(1540591073487)
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\common\package.class -> lastModified(1540591073274)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1540627715789)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1540627715806)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1540627715926)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1540627715882)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1540627716047)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1540627716004)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1540627715421)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$codeBits$1.class -> lastModified(1541062060271)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$combine$1.class -> lastModified(1541062060286)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$1.class -> lastModified(1541062060302)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$createCodeTree$2.class -> lastModified(1541062060302)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$encode$1.class -> lastModified(1541062060317)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1541062060325)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$makeOrderedLeafList$2.class -> lastModified(1541062060332)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$1.class -> lastModified(1541062060340)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$$anonfun$times$2.class -> lastModified(1541062060344)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$.class -> lastModified(1541062060255)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$CodeTree.class -> lastModified(1541062060344)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Fork$.class -> lastModified(1541062060344)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Fork.class -> lastModified(1541062060360)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf$.class -> lastModified(1541062060391)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman$Leaf.class -> lastModified(1541062060375)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\target\scala-2.11\classes\patmat\Huffman.class -> lastModified(1541062060208)
 source stamps:
 2 items
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
-D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> hash(9abe147e28ebaea8f1519484cb92733a981d6781)
+D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> hash(ba7a5cdca6b1324b7a3d42d9c2fe2a45b2ba0586)
 binary stamps:
 2 items
 C:\Program Files\Java\jdk1.8.0_181\jre\lib\rt.jar -> lastModified(1538465155224)
@@ -222,7 +298,7 @@ internal apis:
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\common\package.scala -> 
 rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwB2GhlgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwyb4xfHQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAMg3y8U3QACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM8o3wU3QABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAwIl7qqdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyNdORTdAAIZmluYWxpemVzcQB+AAxU1D+IdAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWayYhGudXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiqiSgQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADBjqSON0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAySTXI6dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADOCpjvF0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADDMwnRd0AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADNHAT710AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ArXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCVTAAJaW5oZXJpdGVkcQB+AJVMAAdwYXJlbnRzcQB+AJV4cQB+ALJzcQB+AK11cQB+AJAAAAAAc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AsXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AynQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ay3NxAH4AvnQAA0FueXNxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMp0AAVzY2FsYXEAfgDRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmtJEfUnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF5EOlxMZWFybmluZ3Ncc2NhbGEtcHJvZ2Z1bjFcTGVhcm5pbmctU2NhbGEtRVBGTC1Db3Vyc2VccGF0bWF0XHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUmr4UfijrrqjxUZSEy5JzOpgdZ4E=
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwNdGxAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEGpG5nQABm5vdGlmeXNxAH4ADOPjQIN0AAxtYWtlQ29kZVRyZWVzcQB+AAww19/AdAAGc2VjcmV0c3EAfgAM+eYOCXQAB3VuYXBwbHlzcQB+AAymkAlEdAAGZW5jb2Rlc3EAfgAMYbD+jXQABndlaWdodHNxAH4ADHtAd9p0AAdjdXJyaWVkc3EAfgAM2fgDJnQABHdhaXRzcQB+AAw/TF2FdAAOY29weSRkZWZhdWx0JDJzcQB+AAyfMkQ+dAANJGFzSW5zdGFuY2VPZnNxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADCLp1Md0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMkvT5NHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADOyXZCt0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAwS9KK9dAAFY2xvbmVzcQB+AAwYFyThdAAPbWVyZ2VDb2RlVGFibGVzc3EAfgAMCCr1QHQABXRpbWVzc3EAfgAMS89n5nQABiRpbml0JHNxAH4ADPNo+jJ0AAdjb21iaW5lc3EAfgAMmiZunnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMvj6PcnQABGNvcHlzcQB+AAxf3ETIdAAMc3RyaW5nMkNoYXJzc3EAfgAM1GDg6nQACHRvU3RyaW5nc3EAfgAMjocP53QACXNpbmdsZXRvbnNxAH4ADNqLXi10AAIhPXNxAH4ADKItZap0AAhnZXRDbGFzc3NxAH4ADBoL2sF0AAlDb2RlVGFibGVzcQB+AAxHYPjfdAAOY3JlYXRlQ29kZVRyZWVzcQB+AAxF8kE2dAAOY29weSRkZWZhdWx0JDFzcQB+AAySTXI6dAAERm9ya3NxAH4ADCXGoJJ0AANCaXRzcQB+AAyykPVvdAACbmVzcQB+AAxDwK/IdAATbWFrZU9yZGVyZWRMZWFmTGlzdHNxAH4ADOCpjvF0AAhDb2RlVHJlZXNxAH4ADMd0bZF0AAJlcXNxAH4ADId5BKh0AAdjb252ZXJ0c3EAfgAMXh7u1XQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADBmtLgZ0AAVyaWdodHNxAH4ADCGmWoh0AAIjI3NxAH4ADDMwnRd0AAhmaW5hbGl6ZXNxAH4ADFUl1x50AA5wcm9kdWN0RWxlbWVudHNxAH4ADNHAT710AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA5wYXRtYXQuSHVmZm1hbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ArXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCVTAAJaW5oZXJpdGVkcQB+AJVMAAdwYXJlbnRzcQB+AJV4cQB+ALJzcQB+AK11cQB+AJAAAAAAc3EAfgCtdXEAfgCQAAAAAHNxAH4ArXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AsXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AsXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AynQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ay3NxAH4AvnQAA0FueXNxAH4AwnNxAH4AxXVxAH4AyAAAAAJzcQB+AMp0AAVzY2FsYXEAfgDRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcGF0bWF0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFmznTiHHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AF5EOlxMZWFybmluZ3Ncc2NhbGEtcHJvZ2Z1bjFcTGVhcm5pbmctU2NhbGEtRVBGTC1Db3Vyc2VccGF0bWF0XHBhdG1hdFx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUunpc3KaxMkt6PULZwv4qRbK6BYY=
 external apis:
 0 items
 source infos:
@@ -232,6 +308,19 @@ AAAAAAAAAAA=
 D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\patmat\patmat\src\main\scala\patmat\Huffman.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZrJiEa51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZrSRH1J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZrJiEa51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZrSRH1J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs2sbOt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs3FLzN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs3/piF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs4MCBl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs4RZwF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs4n6HN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs4yQ/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs45JoZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs5ZXlh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs5emdt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs5uYiN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs5wLnp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZs504hx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAXkQ6XExlYXJuaW5nc1xzY2FsYS1wcm9nZnVuMVxMZWFybmluZy1TY2FsYS1FUEZMLUNvdXJzZVxwYXRtYXRccGF0bWF0XHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
