@@ -4,30 +4,8 @@
     <list default="true" id="5752aa9a-f9e7-42c9-8589-51b2d40a6fae" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../patmat/patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/config-classes/$41370b657aefd326f280$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/config-classes/$41370b657aefd326f280$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/config-classes/$41370b657aefd326f280.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/config-classes/$41370b657aefd326f280.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/src/main/scala/patmat/Huffman.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6$$anon$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,7 +76,7 @@
     <session id="104908877">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="2" />
@@ -106,30 +84,31 @@
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="sc" value="11" />
+          <entry key="sc" value="14" />
           <entry key="scala" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="16" />
+          <entry key="Scala" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sc" value="4105" />
+          <entry key="sc" value="4292" />
           <entry key="scala" value="1819" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="5924" />
+          <entry key="Scala" value="6111" />
         </counts>
       </usages-collector>
     </session>
@@ -141,15 +120,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/week4/Expr.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -181,11 +151,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/week5/higherlist.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week6/pairs.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -232,6 +211,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Learnings\scala-progfun1\Learning-Scala-EPFL-Course\incourse-exercises\src\main\scala</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -256,6 +240,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/week5/week5.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week5/mergesort.sc" />
         <option value="$PROJECT_DIR$/src/main/scala/week5/higherlist.sc" />
+        <option value="$PROJECT_DIR$/src/main/scala/week6/pairs.sc" />
       </list>
     </option>
   </component>
@@ -272,12 +257,46 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
+      <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="incourse-exercises" type="58d84e3e:PackageViewProjectNode" />
-              <item name="incourse-exercises" type="616d4139:PackageViewModuleNode" />
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="week5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="week6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,46 +339,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
+      <pane id="PackagesPane">
         <subPane>
           <expand>
             <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="incourse-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="incourse-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="week5" type="462c0819:PsiDirectoryNode" />
+              <item name="incourse-exercises" type="58d84e3e:PackageViewProjectNode" />
+              <item name="incourse-exercises" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +353,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540846155304" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541605055372" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../patmat/patmat/build.sbt" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -447,8 +432,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20953101" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,17 +532,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week5/week5.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/List.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week4/Expr.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week5/collections.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week3/List.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -605,10 +592,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/collections.sc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week5/higherlist.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        <state relative-caret-position="221">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/pairs.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>

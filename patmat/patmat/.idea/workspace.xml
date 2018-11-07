@@ -4,30 +4,8 @@
     <list default="true" id="42f7cc33-24b0-4ed5-b160-08e17a5e10b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../../incourse-exercises/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../incourse-exercises/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41370b657aefd326f280$$anonfun$$sbtdef$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41370b657aefd326f280$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41370b657aefd326f280.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$41370b657aefd326f280.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1$$anon$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2$$anon$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6$$anon$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$$anonfun$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees$class.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite$TestTrees$class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/test-classes/patmat/HuffmanSuite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -47,11 +25,14 @@
     <session id="644315354">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -85,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="235" column="68" lean-forward="true" selection-start-line="235" selection-start-column="68" selection-end-line="235" selection-end-column="68" />
+            <state relative-caret-position="272">
+              <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
             </state>
           </provider>
         </entry>
@@ -94,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="765">
               <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
             </state>
           </provider>
@@ -136,52 +117,12 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="patmat" type="b2602c69:ProjectViewProjectNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="patmat" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541062149198" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -376,7 +317,6 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
@@ -385,10 +325,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3295082" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="sbt-shell-toolwindow" order="8" visible="true" weight="0.35737705" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,24 +377,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/lol.sc">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/lol.sc" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="61" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        <state relative-caret-position="272">
+          <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/patmat/HuffmanSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="765">
           <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/patmat/Huffman.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="235" column="68" lean-forward="true" selection-start-line="235" selection-start-column="68" selection-end-line="235" selection-end-column="68" />
         </state>
       </provider>
     </entry>
