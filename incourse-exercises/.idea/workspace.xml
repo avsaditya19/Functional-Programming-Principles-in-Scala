@@ -2,7 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5752aa9a-f9e7-42c9-8589-51b2d40a6fae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../forcomp/forcomp/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forcomp/forcomp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forcomp/forcomp/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forcomp/forcomp/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/default/patmat-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-docs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-sources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/scala-2.10/sbt-0.13/resolution-cache/reports/default-patmat-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$codeBits$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$combine$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$encode$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" beforeDir="false" afterPath="$PROJECT_DIR$/../patmat/patmat/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.11" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,50 +115,104 @@
     <session id="104908877">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.38" value="2" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="sc" value="20" />
+          <entry key="sc" value="26" />
           <entry key="scala" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Scala" value="25" />
+          <entry key="Scala" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sc" value="6300" />
+          <entry key="sc" value="6303" />
           <entry key="scala" value="1819" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="8119" />
+          <entry key="Scala" value="8122" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/week6/polynomials.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            <state relative-caret-position="238">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week5/mergesort.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="347">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week5/week5.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week5/higherlist.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week6/maps.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week6/nqueens.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/week6/pairs.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -276,7 +372,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541699399699" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541699567860" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../patmat/patmat/build.sbt" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
@@ -357,7 +453,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21860817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/pairs.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week4/Nat.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -509,17 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/nqueens.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week5/mergesort.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/maps.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="347">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -530,24 +612,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week5/mergesort.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week5/higherlist.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="340">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/week5/higherlist.sc">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/maps.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/week6/polynomials.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/nqueens.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/week6/pairs.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
         </state>
       </provider>
     </entry>
